@@ -1,7 +1,7 @@
 ---
 layout: Home-3
 seo:
-  title: AI Developer
+  title: Generative AI | NLP Developer
   description: Custom description for this page goes here
   collection:
   path: /blog
@@ -19,7 +19,7 @@ images:
     alt: my photo
 ---
 
-## <Typewriter>Full-Stack Developer</Typewriter>
+## <Typewriter>Generative AI | NLP Developer</Typewriter>
 
 <Sep size={6} />
 
