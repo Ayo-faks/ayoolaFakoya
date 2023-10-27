@@ -3,6 +3,7 @@ layout: Post
 title: "Unleashing Creativity: How AI Transforms Art, Music, and Design"
 description: "In the realm of creativity, the human mind has always been the primary source of inspiration. From art and music to literature and design, it's the human imagination that has fueled the most remarkable creations. However, in recent years, a new player has entered the stage – Artificial Intelligence (AI). In this blog post, we'll explore the fascinating ways in which AI is reshaping the creative landscape and challenging our notions of what is possible."
 date: '2023-10-22'
+featured: true
 seo:
   title: "Custom SEO title. Will use title above if not present."
   description: "Custom SEO description. Will use description above if not present."

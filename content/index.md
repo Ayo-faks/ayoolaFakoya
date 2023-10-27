@@ -3,6 +3,11 @@ layout: Home-3
 seo:
   title: AI Developer
   description: Custom description for this page goes here
+  collection:
+  path: /blog
+  sortBy: date
+  recordsPerPage: 9
+  infinitePaging: true
 ---
 
 ---main
@@ -14,7 +19,7 @@ images:
     alt: my photo
 ---
 
-## <Typewriter>AI Developer</Typewriter>
+## <Typewriter>Full-Stack Developer</Typewriter>
 
 <Sep size={6} />
 

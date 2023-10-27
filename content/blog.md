@@ -8,6 +8,7 @@ collection:
   sortBy: date
   recordsPerPage: 9
   infinitePaging: true
+  
 ---
 
 ### Latest Articles

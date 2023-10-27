@@ -3,6 +3,7 @@ layout: Post
 title: "Transforming Mental Health Care: The Role of AI in Diagnosis, Therapy, and Support"
 description: "In recent years, the conversation around mental health has gained momentum, leading to a better understanding of the importance of early diagnosis and effective treatment. Artificial intelligence (AI) is one of the most promising and innovative areas in this field, with the potential to revolutionize the way we approach mental well-being."
 date: '2023-03-19'
+featured: true
 seo:
   title: "Custom SEO title. Will use title above if not present."
   description: "Custom SEO description. Will use description above if not present."
