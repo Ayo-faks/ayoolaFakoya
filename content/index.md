@@ -1,7 +1,12 @@
 ---
 layout: Home-3
 seo:
+<<<<<<< HEAD
   title: Generative AI | NLP Developer
+=======
+  title: NLP and Generative AI Developer
+ Developer
+>>>>>>> ec95d862f3fd27aa24fee21c42e92df6e08fc99b
   description: Custom description for this page goes here
   collection:
   path: /blog
@@ -23,7 +28,7 @@ images:
 
 <Sep size={6} />
 
-Passionate AI/ML Developer experienced in NLP and Generative AI models. Skilled in cloud engineering and data science with a focus on Python. I also channel my creativity into music production, songwriting, and filmmaking during my spare time. Love exploring the intersection of technology and art to create innovative solutions. Let's connect and collaborate on exciting projects!
+Passionate AI/ML Developer experienced in NLP and Generative AI models. Skilled in cloud engineering and data science with a focus on Python and Javascript. I also channel my creativity into music production, songwriting, and filmmaking during my spare time. Love exploring the intersection of technology and art to create innovative solutions. Let's connect and collaborate on exciting projects!
 
 
 
