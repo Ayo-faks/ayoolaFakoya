@@ -57,4 +57,4 @@ This realization challenges the notion that religiosity is the only path to a me
 Awakening experiences can help us to bridge the divide between different religions and spiritual traditions. When we realize that awakening is not exclusive to any one religion, we become more open-minded and respectful of the diverse paths that others take.
 
 Overall, awakening is a powerful force that can help us to grow and evolve as individuals. It is a journey that transcends the boundaries of religion and non-religion, and it is open to all.
-![Mental Health Care](/photos/awakening.jpeg)
+![Awakening](/photos/awakening.jpeg)
