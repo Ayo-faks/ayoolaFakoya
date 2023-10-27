@@ -1,18 +1,13 @@
 ---
 layout: Home-3
 seo:
-<<<<<<< HEAD
-  title: Generative AI | NLP Developer
-=======
-  title: NLP and Generative AI Developer
- Developer
->>>>>>> ec95d862f3fd27aa24fee21c42e92df6e08fc99b
-  description: Custom description for this page goes here
+  title: "Generative AI | NLP Developer"
+  description: "Custom description for this page goes here"
   collection:
-  path: /blog
-  sortBy: date
-  recordsPerPage: 9
-  infinitePaging: true
+    path: /blog
+    sortBy: date
+    recordsPerPage: 9
+    infinitePaging: true
 ---
 
 ---main
