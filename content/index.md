@@ -33,9 +33,7 @@ Passionate AI/ML Developer experienced in NLP and Generative AI models. Skilled 
 
 ---cta
 ---
-<Button href="/contact" size="sm">
-  Download Resume
-</Button>
+
 
 
 
