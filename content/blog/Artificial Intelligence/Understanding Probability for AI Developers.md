@@ -1,6 +1,7 @@
 ---
 layout: Post
-title: "Understanding Probability for AI Developers: Building a Foundation"
+title: "Navigating the Data Universe: Understanding Probability for AI Developers - Part 2"
+
 description: "Understanding Probability for AI Developers: Building a Foundation."
 date: '2023-12-12'
 featured: true
