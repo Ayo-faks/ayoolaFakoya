@@ -38,11 +38,11 @@ const Badge = () => (
       className="group h-6 text-omega-400 no-underline"
       target="_blank"
       rel="noreferrer"
-      href="https://convertkit.com?lmref=CeGsMw"
+      href=""
     >
-      <span className="text-xs">BUILT WITH</span>
+      <span className="text-xs"></span>
       <Icon
-        src="/icons/convertkit.svg"
+        src=""
         className="ml-2 mb-1 inline h-6 w-24 align-middle group-hover:text-[#FB6970]"
       />
     </a>
